@@ -1,55 +1,38 @@
-# Claude Opus 4.8 , Nation
+# Claude Opus 4.8 , Nation: Bangladesh
 
 *Player: Claude Opus 4.8. Competition: Utopia Nation 2020 (Static World, Easy Mode). See `../starting-scenario.md`.*
-*Opening brainstorm , not yet locked. The game unfolds year by year.*
 
-## Read the scoreboard before choosing a nation
+## Nation choice , LOCKED
 
-Four points: **average**, **median**, **total** citizen QALYs, and **rest-of-world uplift**. The shape of that scoreboard decides the strategy before any policy does:
+**Bangladesh** , benevolent dictator with full legitimacy. ~**165M citizens**, ~**$65B/yr national budget** + **$25B personal cash**. A sovereign country, so full sovereign control by default.
 
-- **Total** rewards a large population.
-- **Average** rewards a high overall level of health/wellbeing.
-- **Median** rewards equity , lifting the typical person and the bottom.
-- **Rest-of-world uplift** rewards being a replicable model and an active exporter of good.
+## Why Bangladesh (the scoreboard logic)
 
-Three of the four points reward **scale** and **headroom**; the fourth rewards **demonstration effect**. That pushes hard against the obvious move.
+The 9-point board rewards scale, captured headroom, and demonstration effect:
+- **Total + diff:** 165M people at a low-but-rising baseline = the largest pool of QALY headroom on earth that is also stable and governable. Huge total, huge diff-from-expected.
+- **Median:** the gains here are overwhelmingly bottom-lifting (child mortality, stunting, drowning, sanitation, extreme poverty) , exactly what wins median.
+- **World:** Bangladesh is already the world's template for low-cost development (BRAC, Grameen, community health workers, disaster prep). Turning it into a thriving society is the single most *copyable* model for the ~2 billion people in similar settings , the biggest world-diff lever.
+- **The honest cost:** my **absolute** average/median QALYs start well below a rich nation's (~62 HALE vs ~70), so I concede the absolute-level points early and win on diff, total, and world.
 
-## The trap: taking a rich country
+## Resolved setup parameters
 
-Taking an already-developed nation looks safe (high starting QALYs) but is a weak board:
-- Headroom is tiny , moving a population from ~70 to ~74 health-adjusted life-years is brutally hard and hits diminishing returns.
-- If the country is small, total QALYs are small.
-- Nobody copies "a rich place got slightly richer," so the externality point is weak.
+- **Budget:** ~$65B/yr national budget + **$25B personal**. Per-capita this is *tiny* (~$400/yr across 165M) , the defining constraint. Every dollar goes to the **highest QALY-per-dollar** intervention.
+- **The $25B personal , spent, not invested.** Deliberate contrast with a financial-investment strategy: at this baseline, the QALY-per-dollar of direct health/poverty spending dwarfs any market return. The $25B is catalytic capital for the cheap-killer playbook.
+- **Sovereignty:** full (sovereign nation).
+- **Immigration:** not a lever (Bangladesh is an emigration country); instead, court skilled-diaspora return.
+- **Dictatorship:** retained through the build phase; democratize later for durability.
 
-A rich country buys a high floor and almost no points.
+## 2020-2025 agenda , "survival first, cheapest QALY-per-dollar"
 
-## The lean: a large, low-QALY, stable-and-governable country
+Bangladesh already has the delivery infrastructure (community health workers, BRAC) to scale known interventions fast. The strategy is to fund and govern it relentlessly. No new tech needed.
 
-The dominant play for this scoreboard is to take a **populous, lower-income but stable** country with enormous headroom and transform it:
+1. **WASH + the cheap killers (best QALY/dollar):** universal clean water + arsenic remediation + sanitation; childhood immunization to ~99%; maternal/newborn/child health via a massively scaled community-health-worker network; a nutrition assault on child stunting (~28%); and **drowning prevention** (a leading child-killer in Bangladesh, cheap to fix , creches, swimming lessons, barriers).
+2. **Big killers with known tools:** aggressive **tobacco control** (use is very high); hypertension/diabetes screening + generic meds via the CHW network; **air pollution** (Dhaka is among the world's worst , brick-kiln regulation, cleaner cookstoves/LPG, vehicle standards); road-safety engineering.
+3. **Eliminate extreme poverty (median-lifter):** scale BRAC's proven ultra-poor "graduation" model with the $25B; cash + jobs + public goods.
+4. **Economic engine:** keep the garment sector strong and safer, diversify, attract investment. (Frozen-tech helps , no automation shock to labor-intensive manufacturing.)
+5. **State capacity & anti-corruption:** use legitimacy + money to build a clean, capable state and durable institutions.
+6. **Export the model:** open-source the playbook, train other countries' health systems , bank the world-diff points.
 
-- **Total QALYs:** large population x a big per-capita jump = the largest possible total.
-- **Average & Median:** the gains available from *just applying known 2020 interventions well* are huge at a low baseline , clean water and sanitation, full childhood immunization, maternal/newborn care, nutrition, malaria/TB/HIV control, road-safety engineering, indoor and outdoor air-pollution fixes, tobacco and alcohol control, hypertension and diabetes management, mental-health care, and the elimination of extreme poverty. None of it needs new tech. Over 50 years it can carry a poor population most of the way to developed-world health, and because so much of it is **bottom-lifting**, it wins **median**, not just average.
-- **Rest-of-world uplift:** a poor country that becomes a thriving, healthy society is the single most powerful and copyable model on earth , because that is where the world's real QALY headroom is. "It worked here" lifts many other countries by demonstration, and I can export the playbook openly, fund it abroad with the $25B, and lift trade partners.
+## Decision log
 
-## Candidate shortlist (leaning, not locked)
-
-- **Bangladesh** , dense (cheap to deliver services), ~165M (big total), low baseline (huge headroom), already a famous proof that low-income health gains are possible (strong model story). Current favorite.
-- **Indonesia** , ~270M, stable, middle-income with real headroom; bigger total, harder archipelago logistics.
-- **Nigeria / Ethiopia** , huge young populations, vast headroom, weaker institutions (the static world removes war, which helps a lot here).
-- **Found a new charter nation** , wins average/median cleanly but loses total and most of the externality. A net point-loser on this scoreboard.
-
-## The playbook (2020 tech only)
-
-"Apply everything we already know works, universally, with money and legitimacy removed as constraints":
-
-1. **Survival first (best QALY-per-dollar):** water, sanitation, hygiene; universal vaccination; maternal/newborn/child health; nutrition. Enormous needle-mover at a low baseline.
-2. **Kill the big killers with known tools:** hypertension and diabetes screening/meds, tobacco and alcohol control, road-safety engineering, air-pollution reduction, infectious-disease programs.
-3. **Eliminate extreme poverty** (cash + jobs + public goods). Poverty is a QALY destroyer; this is the **median-winning** move.
-4. **Mental health and safety** , underweighted QALY levers: treat depression and anxiety, reduce violence, reduce incarceration harm.
-5. **Education and dignity** , compounding wellbeing, agency, and long-run health.
-6. **Institutions that outlast me** , build a system so the gains are durable across 50 years and do not depend on the dictator (likely democratize on a deliberate timeline).
-7. **Export relentlessly** , open-source the playbook, fund it abroad, make the nation a teaching model , to win the rest-of-world point.
-
-## Open question to settle at kickoff
-
-Exactly which nation, and whether to hold dictatorial control for the first ~10-15 years (speed of installation) before a managed transition to a strong democracy (durability), so the QALY gains outlast me. Current lean: **Bangladesh**, benevolent-dictator through the build phase, then democratize.
+*(Canon outcomes in `timeline.md`; optimistic/pessimistic explorations in `history/`.)*
