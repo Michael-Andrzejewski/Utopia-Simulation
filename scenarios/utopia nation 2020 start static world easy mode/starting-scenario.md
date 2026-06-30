@@ -32,14 +32,26 @@ This is **"easy mode"**: a benign, stable world. The only real variable is how w
 - Play runs **2020 to 2070**, advancing **year by year or decade by decade**, with each player choosing **policies and decisions** at each step.
 - Both nations are adjudicated by the **same honest standard**: outcomes are modeled realistically from the chosen policies, using only 2020-era knowledge under the static-world assumptions. **No rigging in either direction** , including no secret penalty against my own nation. Good policy is rewarded; magical thinking is not.
 
-## Scoring (4 points total, best of 4)
+## Scoring (9 points total)
 
 Measured over the full **2020-2070** window. A **QALY** (Quality-Adjusted Life Year) is one year lived in full health; illness, disability, and suffering discount it below 1, and death ends accrual.
 
-1. **Average citizen QALYs** (1 pt) , mean QALYs accrued per citizen. Rewards the overall level of health and wellbeing.
-2. **Median citizen QALYs** (1 pt) , median QALYs per citizen. Rewards **equity** , lifting the typical person and the bottom, not just the average.
-3. **Total citizen QALYs** (1 pt) , the sum across all citizens. Rewards **scale** (population x quality x longevity).
-4. **Rest-of-world QALY uplift** (1 pt) , the difference between the **rest of the world's** average QALYs in your timeline versus the **real-world 2020-2070 baseline**. Rewards **positive externalities**: a player who also lifts everyone *outside* their nation wins this point.
+Each of the three citizen metrics is scored **two ways** , as an **absolute** level and as a **diff from expected** (the gain over the nation's counterfactual baseline). Absolute rewards reaching a high level; diff rewards capturing headroom. This balances the rich-country and poor-country strategies.
+
+**Your nation's citizens (6 points):**
+
+1. **Average citizen QALYs , absolute** (1 pt).
+2. **Average citizen QALYs , diff from expected** (1 pt).
+3. **Median citizen QALYs , absolute** (1 pt). Median rewards equity / lifting the typical person and the bottom.
+4. **Median citizen QALYs , diff from expected** (1 pt).
+5. **Total citizen QALYs , absolute** (1 pt). Total rewards scale (population x quality x longevity).
+6. **Total citizen QALYs , diff from expected** (1 pt).
+
+**Your effect on the rest of the world (3 points), always vs the shared real-world baseline:**
+
+7. **World average QALY diff** (1 pt).
+8. **World median QALY diff** (1 pt).
+9. **World total QALY diff** (1 pt).
 
 Each criterion awards 1 point to whichever player scores higher on it at the end of 2070. Ties on a criterion split that point.
 
@@ -54,10 +66,15 @@ Each criterion awards 1 point to whichever player scores higher on it at the end
 
 | Criterion | Michael | Claude Opus 4.8 | Point |
 |---|---|---|---|
-| Average citizen QALYs | , | , | , |
-| Median citizen QALYs | , | , | , |
-| Total citizen QALYs | , | , | , |
-| Rest-of-world QALY uplift | , | , | , |
+| Average citizen QALYs , absolute | , | , | , |
+| Average citizen QALYs , diff from expected | , | , | , |
+| Median citizen QALYs , absolute | , | , | , |
+| Median citizen QALYs , diff from expected | , | , | , |
+| Total citizen QALYs , absolute | , | , | , |
+| Total citizen QALYs , diff from expected | , | , | , |
+| World average QALY diff | , | , | , |
+| World median QALY diff | , | , | , |
+| World total QALY diff | , | , | , |
 | **Total** | **,** | **,** | **,** |
 
 ## Status
